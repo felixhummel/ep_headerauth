@@ -1,0 +1,11 @@
+{
+  "parts": [
+    {
+      "name": "ep_headerauth",
+      "hooks": {
+        "authenticate": "ep_headerauth/ep_headerauth",
+        "handleMessage": "ep_headerauth/ep_headerauth"
+      }
+    }
+  ]
+}
