@@ -1,0 +1,22 @@
+{
+  "name": "ep_headerauth",
+  "description": "Etherpad auth via X-Forwarded-User",
+  "author": {
+    "name": "Felix Hummel",
+    "email": "ep_headerauth@felixhummel.de"
+  },
+  "version": "0.1.0",
+  "license": "GPLv2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/felixhummel/ep_headerauth.git"
+  },
+  "dependencies": {
+    "async-stacktrace": "0.0.2"
+  },
+  "readme": "See Github",
+  "readmeFilename": "README.rst",
+  "bugs": {
+    "url": "https://github.com/felixhummel/ep_headerauth/issues"
+  }
+}
